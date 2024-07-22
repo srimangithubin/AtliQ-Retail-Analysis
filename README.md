@@ -166,7 +166,15 @@ In addition to the main business requests, the following recommended insights we
 
 ## Visualizations
 
-Explore the live Power BI dashboard for interactive visualizations:
+Explore the live Power BI dashboard for interactive visualizations: https://app.powerbi.com/view?r=eyJrIjoiZjc4MTA1OGEtNDgxYi00YjhkLWI4MmEtYWFiNThhNTZmNjk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+## Store performance dashboard
+
+![image](https://github.com/user-attachments/assets/f346ff99-07bf-48c5-a4d4-d164b3d0d167)
+
+## Finance dashboards
+
+![image](https://github.com/user-attachments/assets/795caf20-2d29-47fe-af7e-2ec2f7d57e28)
 
 ## Future Work
 
